@@ -41,6 +41,7 @@ namespace BAI_1_1_BienLaGi
          *  + Giá trị phải đúng các quy tắc với kiểu dữ liệu
          *
          */
+        private int _a;//Biến toàn cục khai báo bên ngoài phương thức.
         static void Main(string[] args)
         {
             //string: Chuỗi
