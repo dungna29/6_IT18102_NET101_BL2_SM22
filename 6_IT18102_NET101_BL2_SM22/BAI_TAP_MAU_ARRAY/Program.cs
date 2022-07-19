@@ -133,7 +133,7 @@ namespace BAI_TAP_MAU_ARRAY
 
          Bài 3: Viết 1 chương trình nhập nhiều  thông tin của sinh viên POLY. Mỗi sinh viên khi nhập vào cần các thông tin sau: Tên, Năm Sinh, Msv. Sau khi người dùng nhập xong hết thông tin sinh viên cần thêm thì sẽ in tất cả ra màn hình lưu in thêm tuổi của mỗi sinh viên tương ứng.(Gợi ý mỗi thuộc tính là một mảng)
 
-         Bài 4: Viết 1 chương trình cho phép nhập 1 mảng số nguyên. Khi nhập số nguyên vào thì sẽ nhập số mới nhất đứng ở Index 0 và đứa số ở vị trí 0 trước đó về cuối.
+         Bài 4: Viết 1 chương trình cho phép nhập 1 mảng số nguyên. Khi nhập số nguyên vào thì sẽ nhập số mới nhất đứng ở Index 0 và đưa số ở vị trí 0 trước đó về cuối.
 
         */
     }
