@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_TAP_MAU_ARRAY", "BAI_TA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_CHUA_LAB1234", "BAI_CHUA_LAB1234\BAI_CHUA_LAB1234.csproj", "{2EE2AA73-F8AF-469C-9ADD-1E02DFC53182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_2_1_OOP", "BAI_2_1_OOP\BAI_2_1_OOP.csproj", "{86572395-461B-4762-90D8-D8E6C6B5CF6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2EE2AA73-F8AF-469C-9ADD-1E02DFC53182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EE2AA73-F8AF-469C-9ADD-1E02DFC53182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EE2AA73-F8AF-469C-9ADD-1E02DFC53182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86572395-461B-4762-90D8-D8E6C6B5CF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86572395-461B-4762-90D8-D8E6C6B5CF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86572395-461B-4762-90D8-D8E6C6B5CF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86572395-461B-4762-90D8-D8E6C6B5CF6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
